@@ -1,0 +1,163 @@
+# ================= YOLO API =================
+# Arquivos específicos da API YOLO
+
+# ================= PYTHON =================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ================= VIRTUAL ENVIRONMENTS =================
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+.env/
+
+# ================= UPLOADS E IMAGENS =================
+uploads/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+temp_images/
+test_images/
+
+# ================= MODELOS YOLO =================
+*.pt
+*.pth
+*.weights
+*.cfg
+*.names
+models/
+weights/
+yolo_models/
+pretrained/
+
+# ================= LOGS E DEBUG =================
+*.log
+logs/
+log/
+debug/
+debug.log
+error.log
+access.log
+
+# ================= CONFIGURAÇÕES LOCAIS =================
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+config.local.py
+settings.local.py
+secrets.py
+credentials.py
+
+# ================= CACHE E TEMPORÁRIOS =================
+cache/
+temp/
+tmp/
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+*.rej
+
+# ================= FLASK/API =================
+instance/
+.webassets-cache
+flask_session/
+sessions/
+*.db
+*.sqlite
+*.sqlite3
+
+# ================= TESTES =================
+.coverage
+.pytest_cache/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+test_results/
+test_output/
+
+# ================= IDEs =================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# ================= SISTEMA =================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# ================= AUDIO =================
+*.wav
+*.mp3
+*.ogg
+*.flac
+*.aac
+audio/
+tts_output/
+speech/
+
+# ================= BACKUP =================
+backup/
+*.backup
+*.bak
+backup_*/
+
+# ================= COMPILED =================
+*.exe
+*.dll
+*.so
+*.dylib
+*.app
+*.pyc
+*.pyo
+
+# ================= JUPYTER =================
+.ipynb_checkpoints
+*.ipynb
+
+# ================= DOCKER =================
+Dockerfile.bak
+docker-compose.override.yml
+.dockerignore.bak

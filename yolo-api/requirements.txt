@@ -1,0 +1,17 @@
+# Dependências principais
+flask>=2.3.3
+ultralytics>=8.0.196
+opencv-python>=4.8.1.78
+pillow>=10.0.1
+numpy>=1.24.3
+requests>=2.31.0
+python-multipart>=0.0.6
+flask-cors>=4.0.0
+
+# TTS e áudio
+gTTS>=2.3.2
+pygame>=2.5.2
+
+# Ferramentas de build (para Windows)
+setuptools>=68.0.0
+wheel>=0.41.0

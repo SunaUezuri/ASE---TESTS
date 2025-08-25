@@ -1,0 +1,169 @@
+# ================= ESP32-CAM YOLO CLIENT =================
+# Arquivos específicos do ESP32-CAM
+
+# ================= ARDUINO/ESP32 =================
+*.hex
+*.bin
+*.elf
+*.map
+*.dis
+*.o
+*.a
+*.d
+*.eep
+*.lss
+*.sym
+*.tmp
+*.log
+*.ino.bak
+*.ino.hex
+*.ino.bin
+*.ino.elf
+*.ino.map
+*.ino.dis
+*.ino.o
+*.ino.a
+*.ino.d
+*.ino.eep
+*.ino.lss
+*.ino.sym
+*.ino.tmp
+*.ino.log
+
+# ================= COMPILAÇÃO =================
+build/
+output/
+debug/
+release/
+*.o
+*.a
+*.d
+*.elf
+*.map
+*.dis
+*.hex
+*.bin
+*.eep
+*.lss
+*.sym
+
+# ================= CONFIGURAÇÕES LOCAIS =================
+*.ino.local
+config.local.h
+secrets.h
+wifi_config.h
+api_config.h
+
+# ================= LOGS E DEBUG =================
+*.log
+logs/
+log/
+debug/
+debug.log
+serial.log
+wifi.log
+
+# ================= TEMPORÁRIOS =================
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+*.rej
+temp/
+tmp/
+
+# ================= IDEs =================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+platformio.ini
+c_cpp_properties.json
+
+# ================= SISTEMA =================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# ================= BACKUP =================
+backup/
+*.backup
+*.bak
+backup_*/
+old_versions/
+
+# ================= TESTES =================
+test/
+tests/
+test_results/
+test_output/
+*.test
+*.spec
+
+# ================= DOCUMENTAÇÃO TEMPORÁRIA =================
+docs/temp/
+docs/draft/
+*.md.bak
+*.txt.bak
+
+# ================= CONFIGURAÇÕES DE REDE =================
+network_config.h
+wifi_credentials.h
+api_endpoints.h
+
+# ================= FIRMWARE =================
+firmware/
+*.bin
+*.hex
+*.elf
+*.map
+*.dis
+*.o
+*.a
+*.d
+*.eep
+*.lss
+*.sym
+*.tmp
+*.log
+
+# ================= ESP32 SPECIFIC =================
+.pio/
+.vscode/
+*.ino.local
+*.ino.bak
+*.ino.hex
+*.ino.bin
+*.ino.elf
+*.ino.map
+*.ino.dis
+*.ino.o
+*.ino.a
+*.ino.d
+*.ino.eep
+*.ino.lss
+*.ino.sym
+*.ino.tmp
+*.ino.log
+
+# ================= ARDUINO CORE =================
+arduino_core/
+esp32_core/
+core/
+libraries/
+
+# ================= CACHE =================
+cache/
+.cache/
+*.cache

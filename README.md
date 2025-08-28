@@ -491,53 +491,6 @@ python test_performance.py
 - **Integração YOLO**: [Demonstração completa]
 - **Sistema TTS**: [Funcionalidades de áudio]
 
-## 📄 Licença
-
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-### 📝 Termos da Licença MIT
-
-```
-MIT License
-
-Copyright (c) 2024 [Seu Nome]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-## 🙏 Agradecimentos
-
-- **Espressif Systems**: Pelo ESP32-CAM
-- **Ultralytics**: Pelo YOLOv8
-- **Flask Team**: Pelo framework web
-- **Google**: Pelo serviço TTS
-- **Comunidade Open Source**: Pelo suporte e contribuições
-
-## 📞 Suporte e Contato
-
-### 🆘 Como Obter Ajuda
-
-1. **Issues GitHub**: [Abra uma issue](https://github.com/seu-usuario/esp32-cam-yolo/issues)
-2. **Wiki**: [Documentação completa](https://github.com/seu-usuario/esp32-cam-yolo/wiki)
-3. **Discussions**: [Fórum da comunidade](https://github.com/seu-usuario/esp32-cam-yolo/discussions)
-4. **Email**: [seu-email@exemplo.com]
-
 ### 📋 Checklist de Suporte
 
 Antes de abrir uma issue, verifique:
@@ -548,7 +501,5 @@ Antes de abrir uma issue, verifique:
 - [ ] Descreveu o problema claramente
 
 ---
-
-**🌟 Desenvolvido com ❤️ para a comunidade de IoT e IA!**
 
 *Este projeto demonstra o poder da combinação entre hardware IoT (ESP32-CAM) e inteligência artificial (YOLO) para criar sistemas inteligentes de detecção de objetos em tempo real.*

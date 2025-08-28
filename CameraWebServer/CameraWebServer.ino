@@ -9,8 +9,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char *ssid = "jani 2.4GHz";
-const char *password = "W58924013";
+const char *ssid = "********";
+const char *password = "********";
 
 void startCameraServer();
 void setupLedFlash();

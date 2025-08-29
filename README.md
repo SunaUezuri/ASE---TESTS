@@ -485,12 +485,6 @@ python test_performance.py
 - **YOLO Object Detection**: [Tutorial completo](https://docs.ultralytics.com/)
 - **Flask REST API**: [Guia de desenvolvimento](https://flask-restful.readthedocs.io/)
 
-### 🎥 Vídeos e Tutoriais
-
-- **Configuração ESP32-CAM**: [Tutorial passo a passo]
-- **Integração YOLO**: [Demonstração completa]
-- **Sistema TTS**: [Funcionalidades de áudio]
-
 ### 📋 Checklist de Suporte
 
 Antes de abrir uma issue, verifique:
